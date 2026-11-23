@@ -1,0 +1,6 @@
+{
+  "name": "HexaVO",
+  "description": "Plateforme SaaS de gestion automobile en France — Particulier, Micro-entrepreneur et Professionnel : inventaire, achats, ventes, facturation Factur-X, Livre de Police, finance et marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
